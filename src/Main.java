@@ -9,4 +9,9 @@ public class Main {
 
 
     }
+
+    public static void newClass(){
+        System.out.println("hello World 2 ");
+
+    }
 }
