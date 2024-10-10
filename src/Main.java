@@ -9,7 +9,7 @@ public class Main {
     }
 
     public static void newClass(){
-        System.out.println("hello");
+        System.out.println("hello World");
 
     }
 }
